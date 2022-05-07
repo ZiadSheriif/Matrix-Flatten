@@ -3,7 +3,6 @@
 
 using namespace std;
 #define fast ios_base::sync_with_stdio(0); cin.tie(0); cout.tie(0);
-#define M_PI 3.14159265358979323846
 
 void D3_D1() {
     int n, m, p;
