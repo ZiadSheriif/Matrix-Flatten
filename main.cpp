@@ -4,9 +4,9 @@
 using namespace std;
 #define fast ios_base::sync_with_stdio(0); cin.tie(0); cout.tie(0);
 
-void D3_D1() {
+int main() {
     int n, m, p;
-    cout << "-----------------Enter the sizes of the 3D array-----------------"
+    cout << "-----------------Enter the Dimensions of the 3D array-----------------"
          << "\n";
     cout << "Length:";
     cin >> n;
@@ -35,12 +35,9 @@ void D3_D1() {
             }
         }
     }
+    cout<<"1D Array Elements: \n";
     for (int i = 0; i < q; i++) {
         cout << D1[i] << " ";
     }
-}
-
-int main() {
-    fast;
-    D3_D1();
+    return 0;
 }
