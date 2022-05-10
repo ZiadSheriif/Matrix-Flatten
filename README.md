@@ -1,16 +1,22 @@
-<div align="center">
+[//]: # (<div align="center">)
+
+[//]: # ()
+[//]: # ([![contributors]&#40;https://img.shields.io/github/contributors/ZiadSheriif/Matrix-Flatten&#41;]&#40;https://github.com/ZiadSheriif/Matrix-Flatten/contributors&#41;)
+
+[//]: # ([![license]&#40;https://img.shields.io/pypi/l/ansicolortags.svg&#41;]&#40;LICENSE&#41;)
+
+[//]: # ([![forks]&#40;https://img.shields.io/github/forks/ZiadSheriif/Matrix-Flatten&#41;]&#40;https://github.com/ZiadSheriif/Matrix-Flatten/network&#41;)
 
 # Matrix-Flatten
 
-</div>
+[//]: # ([![issues]&#40;https://img.shields.io/github/issues/ZiadSheriif/Matrix-Flatten&#41;]&#40;https://github.com/ZiadSheriif/Matrix-Flatten/issues&#41;)
+
+[//]: # ()
+[//]: # (</div>)
 
 <!-- <div align="center">
 
-[![contributors](https://img.shields.io/github/contributors/ZiadSheriif/Matrix-Flatten)](https://github.com/ZiadSheriif/Matrix-Flatten/contributors)
-[![license](https://img.shields.io/pypi/l/ansicolortags.svg)](LICENSE)
-[![forks](https://img.shields.io/github/forks/ZiadSheriif/Matrix-Flatten)](https://github.com/ZiadSheriif/Matrix-Flatten/network)
-[![stars](https://img.shields.io/github/stars/ZiadSheriif/Matrix-Flatten)](https://github.com/ZiadSheriif/Matrix-Flatten/stargazers)
-[![issues](https://img.shields.io/github/issues/ZiadSheriif/Matrix-Flatten)](https://github.com/ZiadSheriif/Matrix-Flatten/issues)
+[//]: # ([![stars]&#40;https://img.shields.io/github/stars/ZiadSheriif/Matrix-Flatten&#41;]&#40;https://github.com/ZiadSheriif/Matrix-Flatten/stargazers&#41;)
 
 </div> -->
 
@@ -39,10 +45,10 @@ gcc main.cpp
 ```
 
 ### Screenshots
-![start](Screenshot1.png)
-![start](Screenshot2.png)
-![start](Screenshot3.png)
-![start](Screenshot4.png)
+![start](screenshots/Screenshot1.png)
+![start](screenshots/Screenshot2.png)
+![start](screenshots/Screenshot3.png)
+![start](screenshots/Screenshot4.png)
 
 
 [//]: # ( &#40;## Contributors&#41;)
