@@ -4,7 +4,7 @@
 
 </div>
 
-<div align="center">
+<!-- <div align="center">
 
 [![contributors](https://img.shields.io/github/contributors/ZiadSheriif/Matrix-Flatten)](https://github.com/ZiadSheriif/Matrix-Flatten/contributors)
 [![license](https://img.shields.io/pypi/l/ansicolortags.svg)](LICENSE)
@@ -12,7 +12,7 @@
 [![stars](https://img.shields.io/github/stars/ZiadSheriif/Matrix-Flatten)](https://github.com/ZiadSheriif/Matrix-Flatten/stargazers)
 [![issues](https://img.shields.io/github/issues/ZiadSheriif/Matrix-Flatten)](https://github.com/ZiadSheriif/Matrix-Flatten/issues)
 
-</div>
+</div> -->
 
 A 3D matrix is to be stored in a 1D vector (flattened).
 ## Description
