@@ -6,11 +6,11 @@
 
 <div align="center">
 
-[![contributors](https://img.shields.io/github/contributors/ZiadSheriif/Matrix_Flatten)](https://github.com/Abd-ELrahmanHamza/Matrix_Flatten/contributors)
+[![contributors](https://img.shields.io/github/contributors/ZiadSheriif/Matrix-Flatten)](https://github.com/ZiadSheriif/Matrix-Flatten/contributors)
 [![license](https://img.shields.io/pypi/l/ansicolortags.svg)](LICENSE)
-[![forks](https://img.shields.io/github/forks/ZiadSheriif/Matrix_Flatten)](https://github.com/Abd-ELrahmanHamza/Matrix_Flatten/network)
-[![stars](https://img.shields.io/github/stars/ZiadSheriif/Matrix_Flatten)](https://github.com/Abd-ELrahmanHamza/Matrix_Flatten/stargazers)
-[![issues](https://img.shields.io/github/issues/ZiadSheriif/Matrix_Flatten)](https://github.com/Abd-ELrahmanHamza/Matrix_Flatten/issues)
+[![forks](https://img.shields.io/github/forks/ZiadSheriif/Matrix-Flatten)](https://github.com/ZiadSheriif/Matrix-Flatten/network)
+[![stars](https://img.shields.io/github/stars/ZiadSheriif/Matrix-Flatten)](https://github.com/ZiadSheriif/Matrix-Flatten/stargazers)
+[![issues](https://img.shields.io/github/issues/ZiadSheriif/Matrix-Flatten)](https://github.com/ZiadSheriif/Matrix-Flatten/issues)
 
 </div>
 
